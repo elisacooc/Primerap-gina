@@ -1,0 +1,50 @@
+body{
+    background-color: #ffccd7;
+}
+
+header{
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/6/62/Starsinthesky.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+}
+
+main{
+    background-color: #ffeef2;
+}
+
+
+h1{
+    color: #e86f9e;
+    font-size: 50px;
+}
+
+
+/*comentario*/
+p{
+    color: purple;
+    font-family: 'PT Sans', sans-serif;
+}
+
+h3{
+    color: blueviolet;
+}
+
+.titulo1{
+    color: #f0077b;
+}
+
+.titulo3{
+    color: #24c0eb;
+}
+
+#lista-desordenada{
+    color:#339527 ;
+}
+
+img{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
